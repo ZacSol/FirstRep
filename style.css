@@ -1,9 +1,67 @@
-h1 {
-    color: purple;
+body{
+    color: white;
+    text-align: center;
+    background: #ffffff url("./images/working-internet-technology-239898.jpg") no-repeat;
+    background-size: 100% 100%;
+    background-color: black;
+}
+button{
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: right;
 }
 h2 {
-    color: blue;
+    margin: 15px 15px 5px;
+    color:yellow
+}
+p{
+    text-indent: 3%;
+    padding: 0% 5%;
+}
+ul{
+    padding: 0px;
+}
+li {
+    list-style-type: circle;
+    list-style-position: inside;
 }
 .red {
     color: red;
+}
+.center {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile{
+    border: double #32CD32;
+    border-radius: 25px;
+    margin: 1%;
+}
+.noindent{
+    text-indent: 0%
+}
+.textbox{
+    background-color: black;
+    border: double #32CD32;
+    margin: 0% 20%;
+}
+.borderfit{
+    background-color: black;
+    border: double #32CD32;
+    padding: 0% 1%;
+    width: fit-content;
+    margin: auto;
+}
+.floating{
+    float: left;
 }
