@@ -1,4 +1,5 @@
 body{
+    margin-top: 0px;
     color: white;
     text-align: center;
     /* background: url("./images/working-internet-technology-239898.jpg") no-repeat; */
@@ -173,3 +174,5 @@ th,tr {
         margin-top: 0;
     }
 }
+
+/* Adding Gallery style here. */
